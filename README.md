@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub!
-Hi, I'm Theo Dela Cruz! I'm a aspiring software engineer with an interest in machine learning and embedded systems. I love building projects that solve real-world problems and continuously improving my skills in software development.
+Hi, I'm Theo Dela Cruz! I'm an aspiring software engineer with an interest in machine learning and embedded systems. I love building projects that solve real-world problems and continuously improving my skills in software development.
 
 ## 🛠️ Tech Stack & Skills
 💻 Languages: C, C#, Java, JavaScript
