@@ -8,12 +8,12 @@ Hi, I'm Theo Dela Cruz! I'm a aspiring software engineer with an interest in mac
 ⚙ Other Tools: Git
 
 ## 📌 Featured Projects
-🚀 [Sample Salad](https://github.com/DYLZO4/SampleSalad) - A University group project - a digital solution for electronic drumpads.
+🚀 [Sample Salad](https://github.com/DYLZO4/SampleSalad) - A University group project - a digital solution for electronic drumpads.\
 🔧 [Gesture Recognition](https://github.com/codenetwork/gestureRecognition) - A CodeNetwork collaborative computer vision project I supervised. The program uses a machine learning model to interpret gestures captured by the webcam feed.
 
 Check out my repositories for more cool projects!
 
 
 ## 📫 Connect With Me
-📧 Email: delacruztheo61@gmail.com
+📧 Email: delacruztheo61@gmail.com\
 💼 LinkedIn: [https://www.linkedin.com/in/theodelacruz/](https://www.linkedin.com/in/theodelacruz/)
