@@ -5,7 +5,7 @@ Hi, I'm Theo Dela Cruz! I'm an aspiring software engineer with an interest in ma
 💻 Languages: C, C#, Java, JavaScript\
 🌐 Frameworks & Libraries: React, Node.js, Express, Tensorflow\
 🗄 Databases: MySQL\
-⚙ Other Tools: Git\
+⚙ Other Tools: Git
 
 ## 📌 Featured Projects
 🚀 [Sample Salad](https://github.com/DYLZO4/SampleSalad) - A University group project - a digital solution for electronic drumpads.\
