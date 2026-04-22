@@ -6,15 +6,6 @@ Currently exploring distributed systems and learning Go.
 
 📧 delacruztheo61@gmail.com · [LinkedIn](https://www.linkedin.com/in/theodelacruz/)
 
----
-
-## 🏆 Highlights
-
-- 🥇 **Best Community Project** — QUT AIML Hackathon 2025 (18 teams)
-- 🎓 Bachelor of Information Technology (Computer Science), QUT — Expected Aug 2026
-- 🧑‍🏫 Peer Learning Facilitator, STIMulate QUT — supported 3,000+ students
-
----
 
 ## 🛠️ Tech Stack
 
@@ -26,9 +17,9 @@ Currently exploring distributed systems and learning Go.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔥 [ProjectPyro](https://github.com/theodelacruz/projectpyro) Live: https://pyro.farzadhayat.dev (light version — client-side simulation only, procedural vegetation, no real GIS data or backend)
+### [ProjectPyro](https://github.com/theodelacruz/projectpyro) Live: https://pyro.farzadhayat.dev (light version — client-side simulation only, procedural vegetation, no real GIS data or backend)
 **QUT AIML Hackathon — Best Community Project Winner**
 Real-time wildfire simulation and interactive firefighting experience built in 24 hours.
 - Cellular automata engine modelling wildfire spread using real Queensland elevation
@@ -38,7 +29,7 @@ Real-time wildfire simulation and interactive firefighting experience built in 2
 
 ---
 
-### 📊 Predictive Modelling Platform *(QUT Capstone)*
+### Predictive Modelling Platform *(QUT Capstone)*
 Full-stack predictive modelling system with explainability tooling.
 - Regression models achieving <10% MAE with SHAP-based visualisations
   surfaced directly in the UI
@@ -47,21 +38,21 @@ Full-stack predictive modelling system with explainability tooling.
 
 ---
 
-### 🥁 [Sample Salad](https://github.com/DYLZO4/SampleSalad)
+### [Sample Salad](https://github.com/DYLZO4/SampleSalad)
 Digital solution for electronic drumpads — university group project.
 **Stack:** Java, MySQL
 
 ---
 
-### 👁️ [Gesture Recognition](https://github.com/codenetwork/gestureRecognition)
+### [Gesture Recognition](https://github.com/codenetwork/gestureRecognition)
 Computer vision project I supervised through QUT's CodeNetwork club.
 Real-time gesture interpretation from webcam feed using a trained ML model.
 **Stack:** Python, TensorFlow, OpenCV
 
 ---
 
-## 📈 Currently Working On
+## Currently Working On
 
 - Deploying ProjectPyro to the web
-- Learning Go
+- Learning Distributed Systems
 - Exploring AWS (Lambda, S3)
