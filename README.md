@@ -28,7 +28,7 @@ Currently exploring cloud deployment and learning Go.
 
 ## 📌 Featured Projects
 
-### 🔥 [ProjectPyro](https://github.com/theodelacruz/projectpyro)
+### 🔥 [ProjectPyro](https://github.com/theodelacruz/projectpyro) Live: https://pyro.farzadhayat.dev (light version — client-side simulation only, procedural vegetation, no real GIS data or backend)
 **QUT AIML Hackathon — Best Community Project Winner**
 Real-time wildfire simulation and interactive firefighting experience built in 24 hours.
 - Cellular automata engine modelling wildfire spread using real Queensland elevation
