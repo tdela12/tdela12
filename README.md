@@ -2,7 +2,7 @@
 
 Final-year Computer Science student at QUT. I build full-stack and data-driven
 applications, with a focus on Python backends, real-time systems, and ML integration.
-Currently exploring distributed systems and learning Go.
+Currently exploring real-time systems and distributed systems.
 
 📧 delacruztheo61@gmail.com · [LinkedIn](https://www.linkedin.com/in/theodelacruz/)
 
